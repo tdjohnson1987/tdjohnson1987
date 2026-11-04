@@ -2,7 +2,7 @@
 
 ### Clinical biomechanics · Sensor data · Applied machine learning
 
-I’m a Stockholm-based specialist podiatrist with a background in physiology and human movement science, currently completing an **MSc in Sports Technology at KTH**.
+I’m a Stockholm-based clinician specialised in gait analysis and applied biomechanics, I also have a background in physiology and human movement science, currently completing an **MSc in Sports Technology at KTH**.
 
 I combine clinical experience with programming and research to explore how we can turn measurements of the human body into useful information for healthcare, rehabilitation and sport. My interests include **sensor signal processing, measurement validation, computer vision and machine learning**.
 
