@@ -46,5 +46,3 @@ My professional work includes specialist podiatry, education and digital develop
 I’m interested in opportunities in **health technology, physiological measurement, sensor validation and applied data science**, where I can contribute both clinical insight and practical technical skills.
 
 Based in **Stockholm, Sweden** · English and Swedish; professional Dutch
-
-Explore my work at [tdjohnson1987.github.io](https://tdjohnson1987.github.io/).
